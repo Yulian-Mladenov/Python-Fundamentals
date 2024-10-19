@@ -7,7 +7,9 @@
 #
 # print(f'{pounds_converted_in_dollars:.3f}')
 
+
 # This approach is modified by me a bit:
+
 british_pounds = int(input('Please,input your amount of GBP: '))
 
 dollars_value = 1.31
