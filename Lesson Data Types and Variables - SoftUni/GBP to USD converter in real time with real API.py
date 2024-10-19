@@ -42,4 +42,4 @@ elif choice == '3':
     usd_amount = amount * usd_rate
     us_dollars = usd_amount
 
-print(f'{amount:.2f} GBP is equivalent to {us_dollars:.2f} USD')
+print(f'{amount:.3f} GBP is equivalent to {us_dollars:.3f} USD')
