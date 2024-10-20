@@ -16,3 +16,16 @@ minutes = hours * one_hour_in_minutes
 # printing the result:
 print(f'{centuries_in_number} centuries = {years} years = {days} days = {hours} hours = {minutes} minutes')
 
+
+
+
+
+
+
+
+
+
+
+
+
+
