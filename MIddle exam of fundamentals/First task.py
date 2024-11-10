@@ -32,3 +32,4 @@ for day in range(1, days + 1):
 else:
     money_left = budget - current_expenses
     print(f"You have reached the destination. You have {money_left:.2f}$ budget left.")
+
